@@ -15,6 +15,7 @@ Make sure to make the system (ex: Ubuntu) allow *Grapho.jar* to run as a program
 - Anderson Oliveira
 - Lucas de Sousa Fernandes
 - Lucas Primo Fernandes Muraro
+- Igor Moura
 
 ### Motivation
 
